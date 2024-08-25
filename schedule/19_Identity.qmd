@@ -1,5 +1,5 @@
 ---
-title: "Name"
+title: "Claiming Your Professional Identity"
 format: html
 toc: true
 editor: source

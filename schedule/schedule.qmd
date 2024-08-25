@@ -8,10 +8,110 @@ editor: source
 
 Our weekly seminar sessions are approximately three hours in length. For most sessions, we will divide out time into three 50-minute chunks:
 
-- **Learn:** Introduction of new material, concept, or deliverable.
+-   **Learn:** Introduction of new material, concept, or deliverable.
 
-- **Reflect:** Individual or group discussion based upon what's been introduced.
+-   **Reflect:** Individual or group discussion based upon what's been introduced.
 
-- **Review:** Peer review and small group reflection on each others' work.
+-   **Review:** Peer review and small group reflection on each others' work.
 
 On the sidebar, you will find a week-by-week description of each seminar session and any related deliverables.
+
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| **Date**   | **Attendees**         | **Description**                                                                | **Activities**                                                     |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 8/30/2024  | All                   | [Seminar Introduction](01_Introduction.qmd)                                    | -   **Learn:** Course introduction and structure                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Clifton Strengths Workshop                        |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Plan of Study Review                               |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 9/6/2024   | Project / Thesis Only | [Defining Your Capstone](02_Defining.qmd)                                      | -   **Learn:** Capstone Formats                                    |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Capstone Summary Review                           |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Capstone Workshopping                              |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 9/13/2024  | Project / Thesis Only | [Defining Outputs](03_Outputs.qmd)                                             | -   **Learn:** Project Storyboarding                               |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Storyboarding Exercise                            |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Visualizing Outputs                                |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 9/20/2024  | All                   | [Developing Your 2-Year Professional Development Plan](04_DevelopmentPlan.qmd) | -   **Learn:** Defining Your Professional Goals                    |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Building a Professional Network                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Jobs and Qualifications                            |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 9/27/2024  |                       | No Class - APA-IL Conference                                                   |                                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 10/4/2024  | Project / Thesis Only | [Defining a Plan Ecosystem](06_PlanEcosystem.qmd)                              | -   **Learn:** Defining Systems of Plans                           |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Developing Your Plan                              |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Workshopping Your Plan Ecosystem                   |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 10/11/2024 | Project / Thesis Only | [Methods](07_Methods.qmd)                                                      | -   **Learn:** Methods Review                                      |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Write a Methods Description                       |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Workshop your Methods Description                  |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 10/18/2024 |                       | Independent Work - No Class                                                    |                                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 10/25/2024 | All                   | [Developing a Professional Portfolio](09_Portfolio1.qmd) - Session 1           | -   **Learn:** Portfolio Structure and Goals                       |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Key Document Review                               |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Key Document Workshopping                          |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 11/1/2024  | Project / Thesis Only | [Participation and Stakeholder Engagement](10_Participation.qmd)               | -   **Learn:** Defining and Developing Engagement Plans            |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Engagement Design                                 |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Engagement Review                                  |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 11/8/2024  | Project / Thesis Only | Independent Work - No Class                                                    |                                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 11/15/2024 | Project / Thesis Only | [Writing Skills](12_WritingSkills.qmd)                                         | -   **Learn:** Writing for Professional Practice                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Writing Exercise                                  |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Exercise Review and Mark-Up                        |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 11/22/2024 | All                   | [Developing a Professional Portfolio](13_Portfolio2.qmd) - Session 2           | -   **Learn:** Disseminating Your Portfolio                        |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:** Portfolio Goal Setting                            |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:** Portfolio Peer Review                              |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 11/29/2024 |                       | Fall Break - No Class                                                          |                                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 12/6/2024  | All                   | [End of Semester Check-In](15_CheckIn.qmd)                                     | -   **Review:** End of Semester Presentations                      |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 1/24/2025  | All                   | [Semester 2 Check-In](16_CheckIn.qmd)                                          | -   **Learn:**                                                     |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:**                                                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:**                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 1/31/2025  | All                   | [Developing a Job Search Strategy](17_JobSearch.qmd)                           | -   **Learn:**                                                     |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:**                                                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:**                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 2/28/2025  | All                   | [Interviewing for Jobs or Ph.D. Programs](18_Interviewing.qmd)                 | -   **Learn:**                                                     |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:**                                                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:**                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 3/28/2025  | All                   | [Claiming Your Professional Identity](19_Identity.qmd)                         | -   **Learn:**                                                     |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Reflect:**                                                   |
+|            |                       |                                                                                |                                                                    |
+|            |                       |                                                                                | -   **Review:**                                                    |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
+| 4/18/2025  | All                   | [Capstone Draft Poster Markup](20_Poster.qmd)                                  | -   **Review:** Peer review of draft posters and capstone projects |
++------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+

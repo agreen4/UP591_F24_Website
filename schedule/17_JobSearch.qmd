@@ -1,5 +1,5 @@
 ---
-title: "Name"
+title: "Developing a Job Search Strategy"
 format: html
 toc: true
 editor: source

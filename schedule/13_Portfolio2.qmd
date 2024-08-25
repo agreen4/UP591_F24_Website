@@ -1,5 +1,5 @@
 ---
-title: "Name"
+title: "Developing a Professional Portfolio - Session 2"
 format: html
 toc: true
 editor: source

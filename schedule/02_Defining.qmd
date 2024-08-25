@@ -1,5 +1,5 @@
 ---
-title: "Name"
+title: "Defining Your Capstone"
 format: html
 toc: true
 editor: source

@@ -1,5 +1,5 @@
 ---
-title: "Name"
+title: "Defining a Plan Ecosystem"
 format: html
 toc: true
 editor: source
