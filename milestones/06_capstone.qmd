@@ -1,0 +1,34 @@
+---
+title: "Capstone Deliverables"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Milestone Description
+
+## Milestone Deliverable
+
+## Resources
+
+## Submission Instructions
+
+Upload your draft and final capstone manuscript and poster as two PDF documents to Box using the below upload portals. Before you upload, save your file using the following naming convention
+
+- **Capstone Manuscript:** LastName_FirstName_capstone.pdf
+
+- **Poster:** LastName_FirstName_poster.pdf
+
+where LastName is your surname (last name) and FirstName is your first name.
+
+::: {.panel-tabset}
+## Draft
+
+<iframe src="https://uofi.app.box.com/f/c56a6a9cef7648b3a11e8e35d3950087" height="900" width="800"></iframe>
+
+## Final
+
+<iframe src="https://uofi.app.box.com/f/c4f82d7d71e3488caacda83d23f0484b" height="900" width="800"></iframe>
+
+:::

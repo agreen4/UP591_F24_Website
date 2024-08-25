@@ -1,0 +1,23 @@
+---
+title: "Seminar Milestones"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+There are six major milestones that you will complete across the two semesters of this seminar:
+
+1. [Plan of Study Update](01_planofstudy.qmd)
+
+2. Capstone Adoption
+
+3. Monthly Progress Memorandum
+
+4. Professional Development Plan
+
+5. MUP Portfolio
+
+6. Capstone Deliverables
+
+It is important to review the details of each of these milestones, particularly since some have both draft and final components with separate deliverable dates. You will also find submission details and requirements for each milestone included with its description.

@@ -1,0 +1,17 @@
+---
+title: "Schedule"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+Our weekly seminar sessions are approximately three hours in length. For most sessions, we will divide out time into three 50-minute chunks:
+
+- **Learn:** Introduction of new material, concept, or deliverable.
+
+- **Reflect:** Individual or group discussion based upon what's been introduced.
+
+- **Review:** Peer review and small group reflection on each others' work.
+
+On the sidebar, you will find a week-by-week description of each seminar session and any related deliverables.

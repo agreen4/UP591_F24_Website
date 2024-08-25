@@ -1,0 +1,23 @@
+---
+title: "Plan of Study"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Milestone Description
+
+## Milestone Deliverable
+
+## Resources
+
+- [Plan of Study Template](files/MUP Plan of Study Template 20240819.docx)
+
+- [Projected 2-Year Course Availability](files/Projected Course Availability 20240820.pdf)
+
+## Submission Instructions
+
+Upload your Plan of Study as a single PDF document to the Box using the below upload portal. Before you upload, save your file using the following naming convention -  LastName_FirstName_POS.pdf, where LastName is your surname (last name) and FirstName is your first name.
+
+<iframe src="https://uofi.app.box.com/f/68b367308a6f4dc8a87d3f9a3997d42c" height="900" width="800"></iframe>
