@@ -44,9 +44,9 @@ Our shared success is predicated upon your full participation and engagement.
 
 Your grade in the seminar will be based upon the following:
 
-20%   Attendance
-20%   Participation
-60%   Milestones
+20%   Attendance <br>
+20%   Participation <br>
+60%   Milestones <br>
 
 ### Participation
 
