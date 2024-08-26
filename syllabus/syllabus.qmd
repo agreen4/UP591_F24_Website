@@ -8,45 +8,47 @@ editor: source
 
 ## Course Information
 
-The Capstone Seminar is a professional development platform for Master of Urban Planning (MUP) students in the [Department of Urban & Regional Planning](https://urban.illinois.edu) and part the program's strategy for building a thriving and successful community of practitioners. The seminar is structured to support students in advancing their professional goals and trajectories as they prepare to matriculate from the MUP program. The seminar is also designed to support students in the early stages of their capstones. 
+The Capstone Seminar is a professional development platform for Master of Urban Planning (MUP) students in the [Department of Urban & Regional Planning](https://urban.illinois.edu) and part the program's strategy for building a thriving and successful community of practitioners. The seminar is structured to support students in advancing their professional goals and trajectories as they prepare to matriculate from the MUP program. The seminar is also designed to support students in the early stages of their capstones.
 
 ## Resources
 
 **Leadership Development**
 
-- [Illinois Leadership Center](https://leadership.illinois.edu)
+-   [Illinois Leadership Center](https://leadership.illinois.edu)
 
 **Forms and Templates**
 
-- [Capstone Adoption Form](files/02_CapstoneAdoption.pdf)
+-   [Capstone Adoption Form](files/02_CapstoneAdoption.pdf)
 
-- [Plan of Study template](files/MUP Plan of Study Template 20240819.docx)
+-   [Plan of Study template](files/MUP%20Plan%20of%20Study%20Template%2020240819.docx)
 
-- [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
+-   [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
 
 **Informal Advice**
 
-- [Professor Greenlee's MUP Capstone Guidance](https://andrew-greenlee.com/resources/mup_capstone)
+-   [Professor Greenlee's MUP Capstone Guidance](https://andrew-greenlee.com/resources/mup_capstone)
 
 **Prior MUP Capstones**
 
-- [UIUC IDEALS database](https://www.ideals.illinois.edu)
+-   [UIUC IDEALS database](https://www.ideals.illinois.edu)
 
-- [MUP Projects (1970 - 2018)](https://www.library.illinois.edu/cpla/theses/mpurp/)
+-   [MUP Projects (1970 - 2018)](https://www.library.illinois.edu/cpla/theses/mpurp/)
 
-- [MUP Theses (1959 - 2018)](https://www.library.illinois.edu/cpla/theses/mturp/)
+-   [MUP Theses (1959 - 2018)](https://www.library.illinois.edu/cpla/theses/mturp/)
 
 ## Participation and Attendance
 
-Our shared success is predicated upon your full participation and engagement. 
+Our shared success is predicated upon your full participation and engagement.
 
 ### Seminar Assessment
 
 Your grade in the seminar will be based upon the following:
 
-20%   Attendance <br>
-20%   Participation <br>
-60%   Milestones <br>
+|                   |     |                                                                                                                                                |
+|--------------------|----------|-------------------------------------------|
+| **Attendance**    | 20% | Attend class sessions as required by your chosen capstone pathway.                                                                             |
+| **Participation** | 20% | Active participation, engagement, and contributions to our seminar.                                                                            |
+| **Milestones**    | 60% | Timely completion and engagement with seminar milestones. Production of work that exemplifies your identity as an urban planning professional. |
 
 ### Participation
 
@@ -56,13 +58,13 @@ The learning environment in this seminar depends upon your participation. Full p
 
 Attendance in our Capstone Seminar varies depending upon the capstone pathway you are pursuing:
 
-- **Workshop Pathway:** Participate in designated seminar sessions, which will occur approximately once per month. Register for 0 credit hours of UP 591 in the fall and spring semesters.
+-   **Workshop Pathway:** Participate in designated seminar sessions, which will occur approximately once per month. Register for 0 credit hours of UP 591 in the fall and spring semesters.
 
-- **Project Pathway:** Participate weekly in all seminar sessions. Register for 4 credit hours of UP 591 in the fall semester and 0 credit hours of UP 591 in the spring semester.
+-   **Project Pathway:** Participate weekly in all seminar sessions. Register for 4 credit hours of UP 591 in the fall semester and 0 credit hours of UP 591 in the spring semester.
 
-- **Thesis Pathway:** Participate weekly in all seminar sessions. Register for 4 credit hours of UP 591 in the fall semester and 0 credit hours of UP 591 in the spring semester.
+-   **Thesis Pathway:** Participate weekly in all seminar sessions. Register for 4 credit hours of UP 591 in the fall semester and 0 credit hours of UP 591 in the spring semester.
 
-Attendance will be taken and full participation is expected to satisfy seminar requirements. 
+Attendance will be taken and full participation is expected to satisfy seminar requirements.
 
 ### Accomodations for Religious Observances
 
@@ -88,7 +90,7 @@ Following University policy, all students are required to engage in appropriate 
 
 ### Staying in Touch
 
-As you learn and face challenges this semester, I need you to communicate with me, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page](%7B%7B%3C%20var%20instructor.calendly_url%20%3E%7D%7D). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
+As you learn and face challenges this semester, I need you to communicate with me, either during our course sessions or individually. You can schedule an appointment with me at your convenience via my [Calendly page]({{< var instructor.calendly_url >}}). I promise to listen, to be a resource, and to help in any way that I can - if I can't help you, I will find someone who can.
 
 ### Sexual Misconduct Reporting Obligation
 

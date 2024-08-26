@@ -27,6 +27,14 @@ You may choose the format for your portfolio - this could be an document intende
 
 ## Resources
 
+[Portfolio Design](files/Portfolio Design FSL.pdf) - [Francesca Lawrence, AICP](https://www.linkedin.com/in/francesca-sallinger-lawrence/)
+
+[Making Portfolios](files/Making Portfolios Eric van Buskirk.pdf) - [Eric van Buskirk, AICP](https://www.linkedin.com/in/eric-van-buskirk-aicp-62baa6301/)
+
+[The Planning Portfolio](https://www.planetizen.com/node/36302) - Planetizen
+
+[Building an Urban Planning Portfolio in 10 Minutes](https://medium.com/coburb/building-an-urban-planning-portfolio-in-10-minutes-with-airtable-and-pory-fe8f4f37ca23) - Jayne Vidheecharoen
+
 ## Submission Instructions
 
 Upload your draft and final portfolios as a single PDF document to Box using the below upload portals. Before you upload, save your file using the following naming convention -  LastName_FirstName_POS.pdf, where LastName is your surname (last name) and FirstName is your first name.
