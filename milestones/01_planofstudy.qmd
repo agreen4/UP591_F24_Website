@@ -8,7 +8,11 @@ editor: source
 
 ## Milestone Description
 
+At the MUP Program Orientation last August, we asked you to produce an initial version of your Plan of Study. Now, we ask for you to provide an update to your Plan of Study to reflect your updated personal and professional trajectory, courses, and goals.
+
 ## Milestone Deliverable
+
+Using the provided [Plan of Study template](files/MUP Plan of Study Template 20240819.docx), develop an updated Plan of Study. 
 
 ## Resources
 

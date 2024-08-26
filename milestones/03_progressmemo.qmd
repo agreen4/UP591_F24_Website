@@ -8,9 +8,25 @@ editor: source
 
 ## Milestone Description
 
+As an accountability measure in UP 591, students pursuing the Project or Thesis options are expected to submit monthly progress updates.
+
 ## Milestone Deliverable
 
+On a monthly basis, add an update to the following [capstone update template](files/Capstone Update Template 2024.docx).
+
+The template asks for updates on the following:
+
+1. **Goals from last month** - recap the goals you described in your last update.
+
+2. **Progress update** - provide an update on your progress towards each of the goals you described as well as any other progress, meetings, or significant actions taken since your last update.
+
+3. **Challenges and requests for assistance** - describe any anticipated or unanticipated challenges you are facing or requests for assistance you have either for the UP 591 instructor or for your capstone adviser. If there are particular resources or guidance you need to address these challenges, please list them.
+
+4. **Goals for next month** - describe the goals you are setting for the next month as well as related benchmarks for these goals.
+
 ## Resources
+
+- [Capstone Update Template](files/Capstone Update Template 2024.docx)
 
 ## Submission Instructions
 

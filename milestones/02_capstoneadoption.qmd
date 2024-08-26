@@ -8,10 +8,25 @@ editor: source
 
 ## Milestone Description
 
+As we begin the semester, one of your first tasks in UP 591 is to formally "adopt" your capstone project by declaring your capstone pathway and related details.
+
+- For the **Workshop Pathway**, you need to share which Fall and Spring UP 510 offerings you intend to take to fulfill your capstone requirement.
+
+- For the **Project Pathway** you need to share a detailed description of your projects subject and scope, a description of your client, and need to secure the signature of your client and the faculty member who has agreed to supervise your project.
+
+- For the **Thesis Pathway** you need to share a project abstract and need to secure the signature of your thesis adviser. You should have also shared a more detailed proposal with both your thesis adviser and your other committee member by the time you adopt your capstone.
+
 ## Milestone Deliverable
+You must formally adopt a capstone pathway by the 10th day of class in the fall semester. 
+
+Complete the [Capstone Adoption Form](files/02_CapstoneAdoption.pdf), including all required signatures (based upon the capstone pathway you are pursuing) and submit to the file dropbox below.
 
 ## Resources
 
+- [Capstone Adoption Form](files/02_CapstoneAdoption.pdf)
+
 ## Submission Instructions
+
+Submit the PDF Capstone Adoption Form with all required signatures below.
 
 <iframe src="https://uofi.app.box.com/f/6da24816da61476f913fef4794ed2087" height="900" width="800"></iframe>
