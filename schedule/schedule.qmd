@@ -37,7 +37,7 @@ On the sidebar, you will find a week-by-week description of each seminar session
 |            |                       |                                                                                |                                                                    |
 |            |                       |                                                                                | -   **Review:** Visualizing Outputs                                |
 +------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
-| 9/20/2024  | All                   | [Developing Your 2-Year Professional Development Plan](04_DevelopmentPlan.qmd) | -   **Learn:** Defining Your Professional Goals                    |
+| 9/20/2024  | All                   | [Developing Your 2-Year Professional Development Plan](04_DevelopmentPlan.qmd) | -   **Learn:** Alumni Portfolio Panel                              |
 |            |                       |                                                                                |                                                                    |
 |            |                       |                                                                                | -   **Reflect:** Building a Professional Network                   |
 |            |                       |                                                                                |                                                                    |
