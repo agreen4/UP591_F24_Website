@@ -8,7 +8,7 @@ editor: source
 
 ### Learn
 
-We will spend time reviewing some of the common final outputs from capstone projects and theses.
+We will spend time reviewing your proposed final outputs from your capstone project or thesis.
 
 ### Reflect
 
@@ -20,6 +20,20 @@ We will develop idea boards that represent some of the key elements of your prop
 
 ## Before we Meet
 
+Come to class prepared to share with each other the following:
+
+1. The main goals and objectives of your capstone
+
+2. The target audience for your capstone
+
+3. The approach you plan to take
+
+4. The types of key findings or recommendations that are likely to result
+
+5. Ideas or examples of outputs like those you intend to create that will best communicate and create impact from your work
+
 ## After we Meet
+
+Complete your capstone idea boards and continue to curate and modify them over time.
 
 ## Additional Resources
