@@ -75,11 +75,11 @@ On the sidebar, you will find a week-by-week description of each seminar session
 |            |                       |                                                                                |                                                                    |
 |            |                       |                                                                                | -   **Review:** Exercise Review and Mark-Up                        |
 +------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
-| 11/22/2024 | All                   | [Developing a Professional Portfolio](13_Portfolio2.qmd) - Session 2           | -   **Learn:** Disseminating Your Portfolio                        |
+| 11/22/2024 | All                   | [Developing a Professional Portfolio](13_Portfolio2.qmd) - Session 2           | -   **Learn:** Conversation with Ana Rodas - FAA Career Services   |
 |            |                       |                                                                                |                                                                    |
-|            |                       |                                                                                | -   **Reflect:** Portfolio Goal Setting                            |
+|            |                       |                                                                                | -   **Reflect:** Portfolio Peer Review                             |
 |            |                       |                                                                                |                                                                    |
-|            |                       |                                                                                | -   **Review:** Portfolio Peer Review                              |
+|            |                       |                                                                                | -   **Review:** Portfolio Goal Setting                             |
 +------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
 | 11/29/2024 |                       | Fall Break - No Class                                                          |                                                                    |
 +------------+-----------------------+--------------------------------------------------------------------------------+--------------------------------------------------------------------+
