@@ -6,12 +6,26 @@ editor: source
 ---
 ## Session Overview
 
-### Learn
-### Reflect
-### Review
+As we conclude our work in UP 591 for the fall semester, we will provide a major update to each other on our capstone progress and deliverables. Our session will be spent sharing these updates with each other.
 
 ## Before we Meet
 
+Prepare a 4-slide presentation summarizing your capstone progress to date. Students pursuing the project or thesis option will present as individuals or as partners (1 presentation per project / thesis). Students pursuing the Workshop option should work together to prepare one presentation summarizing workshop process and outputs (a total of 2 presentations, one for each of the fall UP 510 offerings).
+
+**Slide 1:** Project Overview - summarize the main problem or issue which motivates your capstone (for those pursuing the workshop option, this will be the main question or issue which the workshop has focused on).
+
+**Slide 2:** Process to Date - summarize your process from project inception to present, as well as your anticipated process through the conclusion of the project.
+
+**Slide 3:** Outputs to Date - provide a visual summary of key outputs to date.
+
+**Slide 4:** Key Takeaways or Lessons Learned - summarize key takeaways or lessons learned from your engagement. This could be key points related to the project / thesis / workshop or could be more internal reflections based upon your experience working on your capstone so far.
+
 ## After we Meet
+
+Think about how you plan to tell the story of your capstone as part of your personal portfolio which is due in the spring.
+
+Think critically about how you will complete your project, thesis, or workshop deliverables. If something you originally proposed is now no longer feasible, now is an important time to communicate this to your client, adviser, or instructor.
+
+For those of you pursuing the project or thesis options, please share your slides and a substantive capstone update with your project / thesis adviser before the end of the semester. They will be responsible for providing you with guidance as you complete your project this spring.
 
 ## Additional Resources
