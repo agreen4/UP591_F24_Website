@@ -4,6 +4,7 @@ format: html
 toc: true
 editor: source
 ---
+
 ## Session Overview
 
 As we conclude our work in UP 591 for the fall semester, we will provide a major update to each other on our capstone progress and deliverables. Our session will be spent sharing these updates with each other.
@@ -19,6 +20,28 @@ Prepare a 4-slide presentation summarizing your capstone progress to date. Stude
 **Slide 3:** Outputs to Date - provide a visual summary of key outputs to date.
 
 **Slide 4:** Key Takeaways or Lessons Learned - summarize key takeaways or lessons learned from your engagement. This could be key points related to the project / thesis / workshop or could be more internal reflections based upon your experience working on your capstone so far.
+
+## When we Meet
+
+Here is the presentation order we will follow during our session:
+
+| Time          | Presenter                                  |
+|---------------|--------------------------------------------|
+| 12:00 - 12:10 | Session Introduction                       |
+| 12:10 - 12:20 | UP 510: Urbana Comprehensive Plan (Allred) |
+| 12:20 - 12:30 | Arfah, S.                                  |
+| 12:30 - 12:40 | Bhairy, L.                                 |
+| 12:40 - 12:50 | Crown, N. and Pines T.                     |
+| 12:50 - 1:00  | Break                                      |
+| 1:00 - 1:10   | UP 510: Urbana Schools Engagement (Novoa)  |
+| 1:10 - 1:20   | Fernandes, L.                              |
+| 1:20 - 1:30   | Hernandez, E. and Kokitar, T.              |
+| 1:30 - 1:40   | Hyeon, S.                                  |
+| 1:40 - 1:50   | Break                                      |
+| 1:50 - 2:00   | Mehta A, and Phillips, E.                  |
+| 2:00 - 2:10   | Nair A. and Sakharkar A.                   |
+| 2:10 - 2:20   | Raab, M.                                   |
+| 2:20 - 2:30   | Zhang, Z.                                  |
 
 ## After we Meet
 
