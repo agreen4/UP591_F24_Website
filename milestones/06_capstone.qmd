@@ -113,19 +113,73 @@ The MUP Poster is a place for you to summarize one significant work that represe
 
 You will recieve feedback on your draft poster during a poster markup event in April. You will print and display your final poster at the Planning at Illinois capstone reception in May.
 
-#### Poster Formatting Guidelines
+#### Poster Requirements
 
 Your poster should be a polished and visually engaging summary of a key piece of work you completed as part of your MUP degree. All posters must meet the following requirements:
 
--   The printed poster should be 30" x 40" (portrait or landscape orientation).
+- The printed poster should be 30" x 40" (portrait or landscape orientation).
+- Your Name - Master of Urban Planning
+- Department of Urban + Regional Planning
+- University of Illinois at Urbana-Champaign
+- The semester in which you are graduating (e.g. Spring 2025)
 
--   Your Name - Master of Urban Planning
+#### Poster Formatting Tips and Resources
 
--   Department of Urban + Regional Planning
+##### 1. Emphasize results, findings, and key takeaways
 
--   University of Illinois at Urbana-Champaign
+- Your audience should quickly understand your story
+- Literature, history, and sources should be minimal
+- Illustrate methods visually using process diagrams or flow charts instead of long narrative descriptions
 
--   The semester in which you are graduating (e.g. Spring 2025)
+##### 2. Show, don't tell
+
+- The key is effective visual communication, not lengthy explanations
+- Visuals (maps, charts, diagrams, images) should be approximately 3/4 of your poster with the remaining 1/4 text
+- Visuals should be informative and self-explanatory, complementing each other to tell a compelling story. 
+- Clear captions, annotations, and consistent labeling can help maintain focus on your story.
+- Convert tables into charts and diagrams - visuals are faster to process and interpret.
+
+##### 3. Follow basic rules of graphic design
+
+- Design with consistency: use grids, maintain alignment, and avoid crowding
+- Develop a visual hierarchy to establish priorities for your audience. Image size can help to reinforce this hierarchy with smaller visuals supporting secondary details.
+  + Use colors judiciously and purposefully
+  + You are not limited to a white background   + subtle textures, gradients, and muted images can add sophistication but should not overwhelm content.
+  + Consider color conventions (e.g., red = caution / danger / important; green = go / environment / good; blue = water / calm); if you include a plan map remember to use land use color conventions.
+  + Online design tools can help you find ideal color combinations
+  + Limiting yourself to no more than 3-4 main colors generally makes it easier to create a cohesive and impactful visual that projects a professional and polished look.
+
+- Use text sparingly
+  + Establish a clear text hierarchy: main points (headlines), subheads, short supporting blurbs (captions, labels, annotations).
+  + Use bullets and sentence fragments rather than paragraphs.
+  + Limit wrapped text and long text blocks.
+
+- Understand typeface selection and choose fonts with care
+  + Title: Approximately 100 pt
+  + Heading: 60-70 pt
+  + Body test: 36-40 pt
+  + Captions: 18-20 pt
+
+- Limit yourself to 2-3 fonts for visual consistency
+  + One font for titles and headings
+  + One font for body text
+  + One font (optional) for captions or annotations
+
+- Use sans serif fonts for headlines (more modern and legible at large sizes)
+
+- Use serif fonts for body text, especially at smaller sizes for readability
+
+- If using a colored background, choose high-contrast fonts (medium or bold weights work best)
+
+- Embrace white space to frame your content and improve readability. This includes negative space around all text and visual elements.
+
+##### 4. Create clear visual flow and navigation
+
+- Use color, font size, and positioning to guide the reader through your content in the intended order
+- Two effective layout strategies:
+  + Column Layout (newspaper style) - 2-3 vertical columns read left to right and top to bottom
+  + Central Focus (billboard style) - One bold central message with supporting visuals around it
+- Directional cues (arrows, numbering,subtle design elements) can help lead the eye
 
 ::: callout-tip
 You can find examples of prior MUP posters through [UIUC IDEALS](https://www.ideals.illinois.edu/collections/1318)
@@ -133,7 +187,12 @@ You can find examples of prior MUP posters through [UIUC IDEALS](https://www.ide
 
 ### The Capstone Exit Form
 
-The Capstone Exit Form is the main transmittal form for your final capstone products. For students pursuing the workshop option, the Graduate Advisor will sign your capstone exit form, certifying that you have completed two UP 510 Plan Making Workshop courses. For students pursuing the Project or Thesis options, your project or thesis advisor will sign the form indicating that you have satisfactorily completed your project or have successfully defended and deposited your thesis.
+The [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2023/08/04_CapstoneExit.pdf) is the main transmittal form for your final capstone products. 
+
+- For students pursuing the workshop option, the Graduate Program Adviser (Ben LeRoy) will sign your capstone exit form, certifying that you have completed two UP 510 Plan Making Workshop courses. 
+- For students pursuing the Project or Thesis options, your project or thesis adviser will sign the form indicating that you have satisfactorily completed your project or have successfully defended and deposited your thesis.
+- Regardless of your capstone pathway, please indicate whether you give permission for your capstone materials (poster, portfolio, and project or thesis) to be published in the UIUC IDEALS archive.
+- After reviewing your final capstone materials uploaded to Box, the Director of Graduate Studies will email you the final executed exit form certifying that you have satisfactorily completed all capstone exit requirements for the Master of Urban Planning degree.
 
 ## Resources
 
