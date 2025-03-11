@@ -119,7 +119,7 @@ You will recieve feedback on your draft poster during a poster markup event in A
 
 Your poster should be a polished and visually engaging summary of a key piece of work you completed as part of your MUP degree. All posters must meet the following requirements:
 
-- The printed poster should be 30" x 40" (portrait or landscape orientation).
+- The printed poster should be 24" x 36" (portrait or landscape orientation).
 - Your Name - Master of Urban Planning
 - Department of Urban + Regional Planning
 - University of Illinois at Urbana-Champaign
