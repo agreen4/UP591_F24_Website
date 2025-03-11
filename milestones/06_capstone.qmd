@@ -6,55 +6,183 @@ sidebar: true
 editor: source
 ---
 
-## Milestone Description
+## What is the Capstone?
 
-The MUP capstone provides MUP students with the opportunity to apply what they have learned through their courses and internships to a specific planning problem or issue, and therefore to demonstrate their professional competence to both the faculty and potential employers. Students work independently to decide on a capstone topic and approach with the assistance of the department academic adviser and faculty.
+The MUP capstone provides MUP students with the opportunity to apply what they have learned through their courses and internships to a specific planning problem or issue, and therefore to demonstrate their professional competence to both the faculty, potential employers, and the public.
 
-There are three pathways to satisfy the MUP capstone requirement:
+## What Components Am I Responsible For?
 
-**Plan Making Workshop:** Exposure to professional planning practice by completing two plan making workshops. The audience for the projects completed in these workshops is typically planning and policy practitioners and decisionmakers. Faculty workshop leaders work in partnership with an institution, organization, or community partner to determine the scope and deliverables from the workshop in advance. Typical workshop deliverables may be a report, a plan, or other professional quality work.
+The MUP Program requires that all students preparing to graduate produce three main deliverables in partial fulfillment of graduation capstone requirements:
 
-**Master's Project:** A professional project or analysis focusing on a topic relevant to the student's selected concentration and career goals. The audience for a master’s project is typically planning and policy practitioners and decisionmakers. The capstone deliverable may be a report, a plan, or other professional quality work. The project is conducted for or with an external client.
+1.  The MUP Portfolio
+2.  The MUP Poster
+3.  A Signed Capstone Exit Form (and the accompanying capstone manuscript for students completing the Project or Thesis options)
 
-**Master’s Thesis:** A scholarly applied or basic research work conducted under the formal Thesis Guidelines of the Department and Graduate College. The audience for a master’s thesis is typically academic and applied researchers. The thesis option is most appropriate for MUP students with a strong interest in pursuing a research-oriented career or PhD degree.
+### Component Breakdown
 
-## Milestone Deliverable
+These deliverables help to summarize your time and knowledge acquired in the MUP program.
 
-**Poster:** Participate in the Capstone Poster Session, held near the end of the spring semester in the second year. Note: Students completing their degree in December must submit a poster for the subsequent spring's poster session but they need not be physically present at the session if they have already graduated.
+-   **The MUP Portfolio** provides a holistic summary of your professional capacities and vision for practice.
 
-**Final Products:** Submit the capstone final products, including electronic copies of the capstone and poster (PDF) to the Director of Graduate Studies.
+-   **The MUP Poster** summarizes one important work that reflects your professional identity.
 
-Submit a completed **Capstone Exit Form** including all required signatures to the Director of Graduate Studies.
+-   **The Capstone Manuscript** exemplifies your work as a planning practitioner (in the case of the Workshop or Project options) or planning researcher (in the case of the Thesis option).
+
+As a department, we use these deliverables in three ways:
+
+1.  To **celebrate and record** your significant accomplishments during your time as a graduate student at Illinois.
+2.  To **assess your capacity** to apply key knowledge acquired as a Masters student to advanced practice.
+3.  To **assess your learning** in accordance with university and accreditation learning outcomes assessment requirements.
+
+## Capstone Timeline
+
+### General Timeline
+
+**Semester 2 (Spring)**
+
+-   Capstone adoption process begins
+
+**Semester 3 (Fall)**
+
+-   Capstone adoption complete
+-   Updated Plan of Study
+-   Introduce capstone requirements including portfolio and poster requirements
+
+**Semester 4 (Spring)**
+
+-   Draft poster submission
+-   Draft poster review session
+-   Department awards ceremony and poster event (finals week)
+-   Final deliverables due (finals week)
+    -   Digital copy of Masters Poster
+    -   Digital copy of MUP Portfolio
+    -   Signed Capstone Exit Form (and accompanying final manuscript for Project or Thesis options)
+
+### Key Dates for Spring 2025 Graduates
+
++-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Date              | Deliverable                                       | Description                                                                                                                                                                                    |
++===================+===================================================+================================================================================================================================================================================================+
+| **March 28**      | Draft Project / Thesis to Adviser                 | -   Students pursuing the Project or Thesis pathways submit a complete first draft of their capstones to their adviser for review and comments                                                 |
++-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **April 17**      | Draft Poster Submission                           | -   Submit your draft poster to the Box file dropbox below.                                                                                                                                    |
+|                   |                                                   |                                                                                                                                                                                                |
+|                   |                                                   | -   Submissions must follow this naming convention: LastName_FirstName_PosterDraft.pdf                                                                                                         |
++-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **April 25**      | Draft Poster Review and Markup                    | -   The poster review and markup will take place between 12:00 and 2:00 pm in TBH 227. Please have your poster pinned up in TBH 227 before 12:00 pm.                                           |
+|                   |                                                   | -   We will invite you and other students and faculty to provide feedback on your poster (12:00 – 2:00 pm). Please be prepared for your draft poster to be written on and marked up.           |
++-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **May 8**         | Capstone Poster Presentations and Awards Ceremony | -   Time to celebrate your accomplishments! The Poster Presentations and Awards Ceremony is 5:00 - 7:00 PM in the TBH Blicharski Atrium. This is a public event and all are welcome to attend. |
+|                   |                                                   | -   Please print a copy of your final polished poster and pin it up in the Blicharski Atrium between 2:00 pm and 4:30 pm.                                                                      |
+|                   |                                                   | -   Event starts at 5:00 PM                                                                                                                                                                    |
+|                   |                                                   | -   Awards Ceremony 5:00 PM - 5:30 PM                                                                                                                                                          |
+|                   |                                                   | -   5:30 PM - 7:00 PM Talk about and share your work with our broader departmental community, local practitioners, faculty, and alumni.                                                        |
++-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **May 16**        | Capstone Submission Deadline                      | -   Upload your final capstone deliverables *including adviser signature* before this date (more details below).                                                                               |
++-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Key Capstone Dates Spring 2025
+
+### Thesis Date Considerations
+
+Thesis submissions are subject to additional timing guidelines established by the Graduate College. The [Thesis Deadlines Calendar](https://calendars.illinois.edu/list/3259) contains specific information about Graduate College thesis deadlines. Specific [guidelines for thesis development](https://grad.illinois.edu/academics/thesis-dissertation) and instructions for [thesis submission](https://grad.illinois.edu/academics/thesis-dissertation/submit-your-thesis) are also available.
+
+It is strongly recommended that you schedule your thesis defense for *at least* 1-2 weeks before the deposit deadline so that you have adequate time to revise your thesis based upon committee comments during your defense. You must also ensure that your thesis submission is properly formatted to [Graduate College guidelines](https://grad.illinois.edu/academics/thesis-dissertation/format-requirements). Incomplete or improperly formatted thesis manuscripts may be rejected by the Department or Graduate College.
+
+## Component Descriptions
+
+### The MUP Portfolio
+
+The MUP Portfolio is a holistic summary of your professional identity including polished examples that represent your practice as a planner. The professional portfolio should be designed to showcase your skills and tell a story of who you are as a professional planner. Show examples that you can tell stories about during an interview. Use the portfolio to communicate your design sense.
+
+**Professional History and Goals** - Include a narrative description of your professional history which describes your professional goals and trajectory as well as your values as a professional. Include in your narrative statement a description of your professional goals for the five-year period after you complete your degree.
+
+**Resume / CV** - Include an up to date version of your resume or curriculum vitae.
+
+**Statement of Impact** - Include a narrative statement describing your vision for the type of impact which you aspire to have in your area or field of work.
+
+**Statement of Leadership** - Include a narrative statement describing your vision for leadership in your area or field of work.
+
+**Work Samples** - Include work samples that best illustrate your professional trajectory and capabilities. Include work samples from your core courses, electives, internship (if applicable and you have permission), capstone, and any other contexts that are relevant.
+
+You may choose the format and structure for your portfolio - this could be an document intended for print, could be a website, or could take another format of your choice. You will need to provide a durable record which the department can evaluate. We also hope that this portfolio will be an important resource as you pursue your next professional or academic steps as you prepare to graduate.
+
+### The MUP Poster
+
+The MUP Poster is a place for you to summarize one significant work that represents your mastery of key urban planning skills. You may choose which work completed during the MUP program which you want to showcase on your poster. For those students pursuing the Project or Thesis capstone pathways, you may choose to design a poster based upon your capstone deliverable, however, this is not required. Likewise, students who completed the workshop pathway may design a poster based upon their contributions to the overall workshop deliverable, however, the poster should focus on distinct individual contributions rather than on the overall workshop outputs. Individuals who completed a group project have the option of designing companion posters with one printed poster per group member.
+
+You will recieve feedback on your draft poster during a poster markup event in April. You will print and display your final poster at the Planning at Illinois capstone reception in May.
+
+#### Poster Formatting Guidelines
+
+Your poster should be a polished and visually engaging summary of a key piece of work you completed as part of your MUP degree. All posters must meet the following requirements:
+
+-   The printed poster should be 30" x 40" (portrait or landscape orientation).
+
+-   Your Name - Master of Urban Planning
+
+-   Department of Urban + Regional Planning
+
+-   University of Illinois at Urbana-Champaign
+
+-   The semester in which you are graduating (e.g. Spring 2025)
+
+::: callout-tip
+You can find examples of prior MUP posters through [UIUC IDEALS](https://www.ideals.illinois.edu/collections/1318)
+:::
+
+### The Capstone Exit Form
+
+The Capstone Exit Form is the main transmittal form for your final capstone products. For students pursuing the workshop option, the Graduate Advisor will sign your capstone exit form, certifying that you have completed two UP 510 Plan Making Workshop courses. For students pursuing the Project or Thesis options, your project or thesis advisor will sign the form indicating that you have satisfactorily completed your project or have successfully defended and deposited your thesis.
 
 ## Resources
 
-- [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
+-   [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
 
-- [UIUC IDEALS database](https://www.ideals.illinois.edu)
+-   [UIUC IDEALS database](https://www.ideals.illinois.edu)
 
-- [MUP Projects (1970 - 2018)](https://www.library.illinois.edu/cpla/theses/mpurp/)
+-   [MUP Projects (1970 - 2018)](https://www.library.illinois.edu/cpla/theses/mpurp/)
 
-- [MUP Theses (1959 - 2018)](https://www.library.illinois.edu/cpla/theses/mturp/)
+-   [MUP Theses (1959 - 2018)](https://www.library.illinois.edu/cpla/theses/mturp/)
 
-- [Professor Greenlee's MUP Capstone Guidance](https://andrew-greenlee.com/resources/mup_capstone)
+-   [Professor Greenlee's MUP Capstone Guidance](https://andrew-greenlee.com/resources/mup_capstone)
 
-## Submission Instructions
+## Submitting your Capstone Exit Materials
 
-Upload your draft and final capstone manuscript and poster as two PDF documents to Box using the below upload portals. Before you upload, save your file using the following naming convention
+### Draft Poster Submission
 
-- **Capstone Manuscript:** LastName_FirstName_capstone.pdf
+You will submit your draft poster before the April draft poster pin up event.
 
-- **Poster:** LastName_FirstName_poster.pdf
+-   LastName_FirstName_DraftPoster.pdf - your draft poster submission
 
 where LastName is your surname (last name) and FirstName is your first name.
 
-::: {.panel-tabset}
-## Draft
+### Capstone Submission
 
-<iframe src="https://uofi.app.box.com/f/c56a6a9cef7648b3a11e8e35d3950087" height="900" width="800"></iframe>
+During finals week in May you will upload your capstone exit form with advisor signature, final poster, final portfolio, and project or thesis manuscript (for Project / Thesis pathways). Please follow these naming conventions for your Box uploads:
 
-## Final
+-   LastName_FirstName_ExitForm.pdf - exit form signed by your advisor
 
-<iframe src="https://uofi.app.box.com/f/c4f82d7d71e3488caacda83d23f0484b" height="900" width="800"></iframe>
+-   LastName_FirstName_Poster.pdf - your final poster
 
+-   LastName_FirstName_Portfolio.pdf - your final portfolio
+
+-   LastName_FirstName_Project.pdf - your final project manuscript (for those completing the project pathway)
+
+-   LastName_FirstName_Thesis.pdf - your final thesis manuscript as deposited with the Graduate College (for those completing the thesis pathway)
+
+After you upload your Exit Materials, please email the Director of Graduate Studies who will review your materials, and given satisfactory completion of all exit requirements who will sign off on your Capstone Exit Form to certify your completion of all capstone requirements associated with the MUP degree.
+
+::: panel-tabset
+## Draft Poster
+
+<iframe src="https://uofi.app.box.com/f/c56a6a9cef7648b3a11e8e35d3950087" height="900" width="800">
+
+</iframe>
+
+## Final Deliverables
+
+<iframe src="https://uofi.app.box.com/f/c4f82d7d71e3488caacda83d23f0484b" height="900" width="800">
+
+</iframe>
 :::
