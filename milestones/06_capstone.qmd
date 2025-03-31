@@ -187,6 +187,25 @@ Your poster should be a polished and visually engaging summary of a key piece of
 You can find examples of prior MUP posters through [UIUC IDEALS](https://www.ideals.illinois.edu/collections/1318)
 :::
 
+#### Poster Printing Guidelines
+
+Planning at Illinois students can use the large format printers in TBH Room 21 to print their posters. There are specific step-by-step instructions posted in the lab.  Below are some additional  general tips:
+
+- The lab is staffed every weekday from 9am-9pm and weekends from 12-5pm.  Student lab staff are there to help you.
+
+- To print posters, you will have to log onto a computer in the lab (there are 6 computers).
+
+  + Recommended Poster Size is 24*36
+
+  + Printer Options:
+    - **Printer XL4100:**  This is ideal for your draft poster.  It is cheaper to print and the paper is thinner.
+    - **Printer DJZ9-2:** This is a higher quality printer (matte) that may be better for your final poster.  It does cost more to print.
+    - **Printer Z6200-1 and Printer Z6200-2:** These are also higher quality (semi-gloss) that may be better for your final poster.  These cost more than XL4100.
+
+    - Costs come directly out of your student account.
+    
+Note: Given the high demand for printing, particularly at the end of the semester, be sure to have a plan to print your poster early.
+
 ### The Capstone Exit Form
 
 The [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2023/08/04_CapstoneExit.pdf) is the main transmittal form for your final capstone products. 
