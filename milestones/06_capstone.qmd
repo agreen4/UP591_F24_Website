@@ -80,7 +80,7 @@ As a department, we use these deliverables in three ways:
 |                   |                                                   | -   Awards Ceremony 5:00 PM - 5:30 PM                                                                                                                                                          |
 |                   |                                                   | -   5:30 PM - 7:00 PM Talk about and share your work with our broader departmental community, local practitioners, faculty, and alumni.                                                        |
 +-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **May 16**        | Capstone Submission Deadline                      | -   Upload your final capstone deliverables *including adviser signature* before this date (more details below).                                                                               |
+| **May 16**        | Capstone Submission Deadline                      | -   Upload your final capstone deliverables *including adviser signature, if required* before this date (more details below).                                                                               |
 +-------------------+---------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Key Capstone Dates Spring 2025
@@ -208,10 +208,11 @@ Note: Given the high demand for printing, particularly at the end of the semeste
 
 ### The Capstone Exit Form
 
-The [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2023/08/04_CapstoneExit.pdf) is the main transmittal form for your final capstone products. 
+The [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf) is the main transmittal form for your final capstone products. 
 
-- For students pursuing the workshop option, the Graduate Program Adviser (Ben LeRoy) will sign your capstone exit form, certifying that you have completed two UP 510 Plan Making Workshop courses. 
-- For students pursuing the Project or Thesis options, your project or thesis adviser will sign the form indicating that you have satisfactorily completed your project or have successfully defended and deposited your thesis.
+- For students pursuing the workshop option, you do not need any signatures on your exit form submission
+- For students pursuing the Project option, your capstone exit form should include the signatures of your capstone client and your capstone faculty advisor.
+- For students pursuing the Thesis option, your capstone exit form should include the signature of your capstone faculty advisor.
 - Regardless of your capstone pathway, please indicate whether you give permission for your capstone materials (poster, portfolio, and project or thesis) to be published in the UIUC IDEALS archive.
 - After reviewing your final capstone materials uploaded to Box, the Director of Graduate Studies will email you the final executed exit form certifying that you have satisfactorily completed all capstone exit requirements for the Master of Urban Planning degree.
 
@@ -239,9 +240,9 @@ where LastName is your surname (last name) and FirstName is your first name.
 
 ### Capstone Submission
 
-During finals week in May you will upload your capstone exit form with advisor signature, final poster, final portfolio, and project or thesis manuscript (for Project / Thesis pathways). Please follow these naming conventions for your Box uploads:
+During finals week in May you will upload your [capstone exit form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf) with advisor and client signatures if applicable, final poster, final portfolio, and project or thesis manuscript (for Project / Thesis pathways). Please follow these naming conventions for your Box uploads:
 
--   LastName_FirstName_ExitForm.pdf - exit form signed by your advisor
+-   LastName_FirstName_ExitForm.pdf - [exit form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf)
 
 -   LastName_FirstName_Poster.pdf - your final poster
 
@@ -251,7 +252,7 @@ During finals week in May you will upload your capstone exit form with advisor s
 
 -   LastName_FirstName_Thesis.pdf - your final thesis manuscript as deposited with the Graduate College (for those completing the thesis pathway)
 
-After you upload your Exit Materials, please email the Director of Graduate Studies who will review your materials, and given satisfactory completion of all exit requirements who will sign off on your Capstone Exit Form to certify your completion of all capstone requirements associated with the MUP degree.
+After you upload your Exit Materials, please email the Director of Graduate Studies who will review your materials, and given satisfactory completion of all exit requirements who will sign off on your [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf) to certify your completion of all capstone requirements associated with the MUP degree.
 
 ::: panel-tabset
 ## Draft Poster
